@@ -1,6 +1,6 @@
 # GuessTheNumber!
 
-A simple console - based JavaScript game in which the user has to guess a number "made up" by the computer.
+A simple JavaScript game in which the user has to guess a number "made up" by the computer.
 The maximum number of attempts allowed to guess the number is 10, after which the game will end.
 Input must be a number between 0 and 100, otherwise it is invalid.
 
